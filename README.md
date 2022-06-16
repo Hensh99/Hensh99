@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hensh99/count.svg" />
+</p>
 <!--
 **Hensh99/Hensh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

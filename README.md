@@ -16,11 +16,11 @@
 
 ### 💻 Languages and Tools:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![DAX](https://img.shields.io/badge/dax-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/MySQL-%23ED8B00.svg?style=plastic&logo=mysql&logoColor=white) 
+![DAX](https://img.shields.io/badge/DAX-%23323330.svg?style=plastic&logo=dax&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 

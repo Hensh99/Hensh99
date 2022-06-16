@@ -1,8 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mohamed Hany</h1>
+
+<p>Currently, I'm a junior data integration and passionate about machine learning.</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Hensh99/count.svg" />
 </p>
+
+🔗 &nbsp;**Contact me**
+<a href="https://www.linkedin.com/in/mohamed-hany-925969194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hany-925969194/" height="30" width="40" /></a>
 <!--
 **Hensh99/Hensh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

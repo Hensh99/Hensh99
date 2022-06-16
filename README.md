@@ -2,15 +2,10 @@
 
 <p>Currently, I'm a junior data integration and passionate about machine learning.</p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hensh99/count.svg" />
-</p>
-
 🔗 &nbsp;**Contact me**
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-hany-925969194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hany-925969194/" height="30" width="40" /></a>
 <a href="https://twitter.com/Hensh_99" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohamed-hany-925969194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## 🛠️ Favorite Tools
@@ -33,6 +28,12 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hensh99/count.svg" />
+</p>
+
 <!--
 **Hensh99/Hensh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

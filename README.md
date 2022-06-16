@@ -4,8 +4,12 @@
 
 🔗 &nbsp;**Contact me**
 <p align="left">
-<a href="https://twitter.com/Hensh_99" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohamed-hany-925969194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/mohamed-hany-925969194/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Hensh_99">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </p>
 
 ## 🛠️ Favorite Tools

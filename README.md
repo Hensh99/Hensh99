@@ -12,19 +12,17 @@
   </a>
 </p>
 
-## 🛠️ Favorite Tools
-
-### 💻 Languages and Tools:
+### 💻 Technical Skills:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/MySQL-%23ED8B00.svg?style=plastic&logo=mysql&logoColor=white) 
-![DAX](https://img.shields.io/badge/DAX-%23323330.svg?style=plastic&logo=dax&logoColor=%23F7DF1E) 
+![POWER BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 
-### 🧰 Frameworks and libraries
+### 🧰 Python Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 

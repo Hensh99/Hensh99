@@ -18,7 +18,7 @@ database engineering, and operating systems.</p>
 ### 💻 Technical Skills:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.JS]([https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=nodejs&logoColor=F7DF1E](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 

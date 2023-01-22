@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Hany</h1>
 
-<p>Currently, I'm a junior data integration and passionate about machine learning.</p>
+<p>I'm A software engineering graduate with one year of experience in the field.
+High-level proficiency in the following: JavaScript, jQuery, NodeJS, Python,
+Oracle, MySQL, MongoDB, and Redis. Experienced with back-end applications,
+database engineering, and operating systems.</p>
 
 🔗 &nbsp;**Contact me**
 <p align="left">

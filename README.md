@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Hany</h1>
 
-<p>I'm A software engineering graduate with one year of experience in the field.
-High-level proficiency in the following: JavaScript, jQuery, NodeJS, Python,
-Oracle, MySQL, MongoDB, and Redis. Experienced with back-end applications,
-database engineering, and operating systems.</p>
+<p>I am a software engineer with two years of experience specializing in back-end development. My expertise includes JavaScript, TypeScript, Python, C++, Node.js, NestJS, Oracle, MySQL, MongoDB, Redis, Docker, and Kubernetes. I have a strong background in developing server-side applications, designing and managing databases, and creating scalable system architectures. I am passionate about continuous learning and exploring new technologies to deliver high-quality software solutions.</p>
 
 🔗 &nbsp;**Contact me**
 <p align="left">
@@ -14,9 +11,9 @@ database engineering, and operating systems.</p>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<!--
 ### 💻 Technical Skills:
-
+<!--
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Hany</h1>
 
-<p>I am a software engineer with two years of experience specializing in back-end development. My expertise includes JavaScript, TypeScript, Python, C++, Node.js, NestJS, Oracle, MySQL, MongoDB, Redis, Docker, and Kubernetes. I have a strong background in developing server-side applications, designing and managing databases, and creating scalable system architectures. I am passionate about continuous learning and exploring new technologies to deliver high-quality software solutions.</p>
+<p>I am a software engineer with two years of experience specializing in back-end development. My expertise includes JavaScript, TypeScript, Python, C++, Node.js, NestJS, Oracle, MySQL, Postgres, MongoDB, Redis, Docker, Kubernetes, and AWS. I have a strong background in developing server-side applications, designing and managing databases, and creating scalable system architectures. I am passionate about continuous learning and exploring new technologies to deliver high-quality software solutions.</p>
 
 🔗 &nbsp;**Contact me**
 <p align="left">
